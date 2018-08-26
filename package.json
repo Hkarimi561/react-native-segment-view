@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      "react-native-segmented-view@2.0.0",
+      "/Users/hkarimi561/Documents/reactProject/ZoraTalk"
+    ]
+  ],
+  "_from": "react-native-segmented-view@2.0.0",
+  "_id": "react-native-segmented-view@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-pck3IXbwTjSQ/lMnvnhcBOk2HpQ=",
+  "_location": "/react-native-segmented-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-segmented-view@2.0.0",
+    "name": "react-native-segmented-view",
+    "escapedName": "react-native-segmented-view",
+    "rawSpec": "2.0.0",
+    "saveSpec": null,
+    "fetchSpec": "2.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-segmented-view/-/react-native-segmented-view-2.0.0.tgz",
+  "_spec": "2.0.0",
+  "_where": "/Users/hkarimi561/Documents/reactProject/ZoraTalk",
+  "author": {
+    "name": "Leland Richardson"
+  },
+  "bugs": {
+    "url": "https://github.com/lelandrichardson/react-native-segmented-view/issues"
+  },
+  "dependencies": {
+    "react-tween-state": "0.1.5",
+    "create-react-class": "15.6.2",
+    "react-timer-mixin": "0.13.3"
+  },
+  "description": "Segmented View for React Native (with animation)",
+  "homepage": "https://github.com/lelandrichardson/react-native-segmented-view",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "segmented",
+    "view"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-segmented-view",
+  "peerDependencies": {
+    "react-native": ">=0.34.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lelandrichardson/react-native-segmented-view.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.2"
+}
